@@ -7,7 +7,7 @@ I have 3 years of experience in Software Testing. I have worked with both agile 
 
 **Frontend:** HTML, CSS, JavaScript, React.js  
 **Backend:** PHP, Laravel  
-**Databases:** MariaDB, MySQL 
+**Databases:** MariaDB, MySQL
 **Content Management System:** Wordpress, Drupal, Strapi
 **CI & CD:** AWS, Jenkins 
 **Tools:** GitHub, VS Code
