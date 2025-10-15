@@ -14,9 +14,7 @@ Currently, I’m studying **Full Stack Web Development** at **Helsinki Business 
 **Backend:** PHP · Laravel  
 **Databases:** MariaDB · MySQL  
 **Content Management Systems:** WordPress · Drupal · Strapi  
-
 **CI/CD & Cloud:** AWS · Jenkins  
-
 **Tools:** Git · GitHub · VS Code  
 
 ---
