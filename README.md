@@ -12,13 +12,6 @@ I have 3 years of experience in Software Testing. I have worked with both agile 
 **CI & CD:** AWS, Jenkins 
 **Tools:** GitHub, VS Code
 
-## 📌 Projects
-
-1. **Little Zoo**
-2. **ATM Simulator**
-3. **Pancake**
-4. **Portfolio**
-
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suganyaprabagarane&layout=compact&theme=radical)
