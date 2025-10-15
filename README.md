@@ -1,4 +1,4 @@
-## 👋 I'm **Suganya Prabagarane!**
+## I'm **Suganya Prabagarane!**
 
 **Aspiring Web Developer** | Former **Software Testing Engineer**
 
